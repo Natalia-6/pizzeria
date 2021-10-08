@@ -1,0 +1,38 @@
+body{
+background-color:yellow;
+background: 
+linear-gradient(  
+        rgba(255,0,0,70%),
+        rgba(200,0,0,200%)
+        )no-repeat,
+        url(Imagenes/pitza.jpg);
+        height: 800px;
+      background-size: cover;
+	font-size: 20px;
+	color:yellow;
+	font-family: Garamond, serif;
+
+}
+
+
+h1{
+   background-color: orange;
+   color:green;
+   text-align: center;
+   font-family: 'Brush Script MT', cursive;
+}
+
+p{
+	text-align: center;
+	font-size: 25px;
+	color:yellow;
+	font-family: Garamond, serif;
+	}
+
+img{
+	align:center;
+	height:400px;
+   width:200px;
+   object-fit: cover;
+}
+   

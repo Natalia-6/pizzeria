@@ -1,0 +1,78 @@
+body {
+	background-color: red;
+	border-style: solid; 
+	background-color:yellow;
+background: 
+linear-gradient(  
+        rgba(255,0,0,70%),
+        rgba(200,0,0,200%)
+        )no-repeat,
+        url(Imagenes/queso.jpg);
+        /*/https://ar.pinterest.com/hugomf1/pizzer%C3%ADas/*/
+        height: 800px;
+      background-size: cover;
+  
+}
+h1 {
+	font-family: 'Brush Script MT', cursive;
+	color:yellow;
+	text-align: center;
+	font-size:80px;
+
+}
+
+ul{
+
+ 	float:right;
+ 	width:40%;
+ 	padding:70px;
+ 	text-align:center; 
+ 	/*border:2px dash blue ;*/ 
+}
+li {
+ 	border-width: 1px;
+ 	border-style: solid;
+ 	border-color: red;
+ 	margin: 0px 8px;
+ 	float:right;
+ 	text-align: center;
+ 	display:inline;
+ 	}
+
+
+ a {
+ 	background-color: black;
+ 	border-radius: 50px 50px;
+ 	font-size: 22px;
+ 	text-decoration: none;
+ 	color:blue;
+ 	text-align:center;
+ 	display:inline-block;
+ 	width: 180px;
+ 	padding-top: 10px;
+ }
+
+ a:hover {
+ 	color:black;
+ 	background-color: gold;
+ }
+p{
+	font-size: 37px;
+	 font-family: Garamond, serif;
+}
+
+ div { 
+ 	width: 30%;
+ 	height:800px;
+ 	background-color:green;
+  	color:black;
+  	padding-top: 20px;
+ 	padding-right:  20px;
+ 	padding-right: 10px;
+ }
+ img{
+ 	margin: 0px 550px;
+	height:200px;
+   width:300px;
+   object-fit: cover;
+ }

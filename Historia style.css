@@ -1,0 +1,38 @@
+
+body{
+background-color:yellow;
+background: 
+linear-gradient(  
+        rgba(255,0,0,70%),
+        rgba(200,0,0,200%)
+        )no-repeat,
+        url(Imagenes/pizzaa.jpg);
+        /*/https://ar.pinterest.com/hugomf1/pizzer%C3%ADas/*/
+        height: 800px;
+      background-size: cover;
+	
+
+}
+
+
+h1{
+   background-color: blue;
+   color:white;
+   text-align: center;
+   font-family: 'Brush Script MT', cursive;
+}
+
+p{
+	text-align: center;
+	font-size: 25px;
+	color:yellow;
+	font-family: Garamond, serif;
+	}
+
+img{
+	margin: 0px 550px;
+	height:400px;
+   width:300px;
+   object-fit: cover;
+}
+   

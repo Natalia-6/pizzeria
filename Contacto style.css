@@ -1,0 +1,24 @@
+body{
+background-color:yellow;
+background: 
+linear-gradient(  
+        rgba(255,0,0,70%),
+        rgba(25,0,0,100%)
+        )no-repeat,
+        url(Imagenes/Pi.jpg.jpg);
+        height: 800px;
+      background-size: cover;
+  }
+  h1{
+   background-color: pink;
+   color:green;
+   text-align: center;
+   font-family: 'Brush Script MT', cursive;
+}
+p{
+	text-align: center;
+	font-size: 60px;
+	color:yellow;
+	font-family: Garamond, serif;
+
+}
